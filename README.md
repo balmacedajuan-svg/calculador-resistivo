@@ -83,3 +83,6 @@ Este proyecto está bajo la Licencia MIT. Siéntete libre de modificarlo y distr
 2. Navega hasta la carpeta donde descargaste o clonaste el proyecto:
    ```cmd
    cd ruta\a\la\carpeta\calculadora-resistencias
+   Ejecuta el programa con el siguiente comando:
+python resistenciasfinal.py
+(Si el comando python no funciona, prueba con py resistenciasfinal.py).
