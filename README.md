@@ -69,3 +69,17 @@ O bien, en sistemas donde se diferencien las versiones de Python:
 python3 resistenciasfinal.py
 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Siéntete libre de modificarlo y distribuirlo.
+
+## 🚀 Cómo ejecutar en Windows
+
+### Requisitos previos
+1. Tener instalado **Python 3** (descárgalo desde [python.org](https://www.python.org/)). 
+   > ⚠️ **Importante:** Durante la instalación, marca la casilla que dice **"Add Python to PATH"** (Agregar Python al PATH).
+2. Tkinter viene incluido por defecto con la instalación oficial de Python en Windows, por lo que no requiere descargas adicionales.
+
+### Pasos de ejecución
+
+1. Abre la terminal de Windows (**Símbolo del sistema / CMD** o **PowerShell**).
+2. Navega hasta la carpeta donde descargaste o clonaste el proyecto:
+   ```cmd
+   cd ruta\a\la\carpeta\calculadora-resistencias
