@@ -1,0 +1,6 @@
+# Este proyecto únicamente utiliza bibliotecas de la librería estándar de Python (Standard Library).
+# No se requieren dependencias de terceros a través de PyPI / pip.
+# 
+# Requisitos del sistema:
+# - Python 3.x
+# - Tkinter (incluido por defecto en instaladores de Python para Windows y macOS)
